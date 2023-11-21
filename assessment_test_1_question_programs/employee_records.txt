@@ -1,0 +1,3 @@
+1 Visagan AI_Engineer 5000000
+2 Nancy Data_Scientist 400000
+3 Ramji UI/UX_Designer 80000
