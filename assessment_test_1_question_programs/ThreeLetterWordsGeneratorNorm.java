@@ -31,7 +31,8 @@ public class ThreeLetterWordsGeneratorNorm {
                 for (int k = 0; k < letters.length; k++) {
                     if (i != j && j != k && i != k) {
                         char[] threeLetterWord = { letters[i], letters[j], letters[k] };
-                        Arrays.sort(threeLetterWord);
+                        //Arrays.sort(threeLetterWord);
+			//It didn't give the desired output given by mam in the question paper
                         System.out.println(new String(threeLetterWord));
                     }
                 }
